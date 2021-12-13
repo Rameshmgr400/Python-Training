@@ -15,3 +15,4 @@ while roll == "Yes" or roll == "y":
     roll - input("Can i roll again the dice? (yes/no) : ")
     if roll == "no" or roll == "n":
         print("Thank for playing, can play again!")
+        break
